@@ -59,10 +59,12 @@ Windows Versions:
 - [ ] Windows 8.1
 - [ ] Windows 10 not LTSC
 
-~~- [ ] Windows 11~~ never.
+~~Windows 11~~ never.
   
-
+### FAQ
   
+Q: Do you guys have a Discord server?
+A: Yes, we do! Here is the (link)[https://discord.gg/nAtm3TFG4v]
   
   
   
