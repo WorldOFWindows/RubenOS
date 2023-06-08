@@ -25,11 +25,11 @@ RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO 
 
    2. FAQ
    ***
-      - The FAQ has questions to your most asked answers!
+      - The FAQ has questions to your most asked answers! ♾️
    ***
    3. Guide/Troubleshooting
    ***
-      - Here, you can learn how to install RubenOS and know how to fix some of the common issues!
+      - Here, you can learn how to install RubenOS and know how to fix some of the common issues! 🔨
    ***
 
   
