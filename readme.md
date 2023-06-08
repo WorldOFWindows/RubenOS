@@ -14,5 +14,9 @@ RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO 
   
    1. What is RubenOS?
       1.1 Why does it exist?
-      1.2 Development
-      1.3 What will be added?
+      
+  
+  1.2 Development
+      
+  
+  1.3 What will be added?
