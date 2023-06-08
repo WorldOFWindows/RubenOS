@@ -61,7 +61,7 @@ Windows Versions:
 
 ~~Windows 11~~ never.
   
-## FAQ
+## 2. FAQ
   
 Q: Do you guys have a Discord server?
 + A: Yes, we do! Here is the [link](https://discord.gg/nAtm3TFG4v)
@@ -77,6 +77,12 @@ Q: How long did it take to code RubenOS?
 
 *More questions comming soon:tm:*
   
+### 3. Guide/Troubleshooting
   
+Well, if you come here, you should know how to install Windows. The Troubleshooting Part will some soon, after we see what common issues there are.
+If you dont know how to install Windows, ask us. But we think that you guys should have the know and how
+
+### End
   
+We hope that RubenOS will make your gaming/home-use experience wonderful! If you have any questions, ask in the Discord server.
   
