@@ -45,7 +45,15 @@ Boredom. I/We didnt know what to do in life or do something to make a hit and ma
   
  ### Development
   
-  When? | What
-  -------------
-  6 months ago (around January) | test
- 
+   When?                | What? 
+   ----------------------------------------------
+   6 months ago (January)| test
+                         |
+                         |
+                         |
+  
+  
+  
+  
+  
+  
