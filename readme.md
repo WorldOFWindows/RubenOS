@@ -36,8 +36,16 @@ RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO 
   ## 1. What is RubenOS?
       
 RubenOS is a modified version of Windows. It is designed to be good for home-use aswell of gaming use. Benchmarks are soon to come, dont worry. Alino and Pitachok are the brains of this operation. I, Alino, am writing this. I made a script (it tweaks the system) that is around **10.000** Lines long. Pretty impressive for me. There is also a Toolkit on the Desktop. It has a Installer for games and apps and a guide for drivers. RubenOS **dosen`t** contain any spyware, malware and i coded it in a good way. You can check the code, because as you can see, its Open-Source.  
+
 RubenOS has a build in WinPE aswell. I`ll explain. If you boot to the Installation medium, you wont see your typical installation setup, instead you will boot into the WinPE, called WinRPE. WInRPE can be used to repair Windows, search the web and more. In the Desktop there will be a shortcut of the Windows Setup and if you open it, you will be ready to install RubenOS.
   
   ### 1.1 Why does it exist?
   
 Boredom. I/We didnt know what to do in life or do something to make a hit and make us known. This is our idea. We dont care about money, maybe donations, but we give all products for free. Also I wanted to create something so yeah. RubenOS was creeated.
+  
+ ### Development
+  
+  When? | What
+  -------------
+  6 months ago (around January) | test
+ 
