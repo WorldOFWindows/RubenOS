@@ -8,3 +8,11 @@ A custom Windows:tm: modification for gaming and home-use
 RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO NOT** recommend running RubenOS as a daily-drive (everyday use). 
 
   *By scrolling down, you are accepting the risk.*
+
+  
+## What stuff is in this Readme?
+  
+   1. What is RubenOS?
+      1.1 Why does it exist?
+      1.2 Development
+      1.3 What will be added?
