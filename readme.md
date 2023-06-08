@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/WorldOFWindows/RubenOS/blob/main/rubenos_banner.png?raw=true" "width="50"  style="border-radius: 30px"></a>
+  ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 A custom Windows:tm: modification designed for Gaming and home-use
 
                                               
