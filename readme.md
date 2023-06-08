@@ -64,7 +64,18 @@ Windows Versions:
 ### FAQ
   
 Q: Do you guys have a Discord server?
-A: Yes, we do! Here is the (link)[https://discord.gg/nAtm3TFG4v]
+A: Yes, we do! Here is the [link](https://discord.gg/nAtm3TFG4v)
+  
+Q: Is RubenOS preactivated?
+A: No, it isnt.
+  
+Q: I want to contact Alino/Pitachok. How can i do that?
+A: To contact us, just message us on Discord! We would be happy to solve your questions!
+  
+Q: How long did it take to code RubenOS?
+A: 6 months.
+
+*More questions comming soon:tm:*
   
   
   
