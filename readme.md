@@ -31,3 +31,8 @@ RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO 
    ***
       - Here, you can learn how to install RubenOS and know how to fix some of the common issues!
    ***
+
+  
+  ## What is RubenOS?
+      
+     RubenOS is
