@@ -58,6 +58,7 @@ Windows Versions:
 
 - [ ] Windows 8.1
 - [ ] Windows 10 not LTSC
+
 ~~- [ ] Windows 11~~ never.
   
 
