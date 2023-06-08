@@ -61,7 +61,7 @@ Windows Versions:
 
 ~~Windows 11~~ never.
   
-### FAQ
+## FAQ
   
 Q: Do you guys have a Discord server?
 + A: Yes, we do! Here is the [link](https://discord.gg/nAtm3TFG4v)
