@@ -5,6 +5,6 @@ A custom Windows:tm: modification for gaming and home-use
  
 ## ⚠️ Warning!
 
-RubenOS is [UNSTABLE](https://youtube.com) and in development version 1. I **DO NOT** recommend running RubenOS as a daily-drive (everyday use). 
+RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO NOT** recommend running RubenOS as a daily-drive (everyday use). 
 
   *By scrolling down, you are accepting the risk.*
