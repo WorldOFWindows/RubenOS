@@ -18,10 +18,7 @@ RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO 
       - 1.1 Why does it exist? ❔
       
   
-      - 1.2 Development 🪜
-      
-  
-      - 1.3 What is/will be added? ↪️
+      - 1.2 What is/will be added? ↪️
 
    2. FAQ
    ***
@@ -43,13 +40,26 @@ RubenOS has a build in WinPE aswell. I`ll explain. If you boot to the Installati
   
 Boredom. I/We didnt know what to do in life or do something to make a hit and make us known. This is our idea. We dont care about money, maybe donations, but we give all products for free. Also I wanted to create something so yeah. RubenOS was creeated.
   
- ### Development
+
+ ### 1.2 What is/will be added?
   
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+- [x] Initiation Script
+   - [x] Main (more features added soon)
+   - [ ] Theme modification
+- [x] WinPE
+- [X] Toolkit
+   - [X] Installer
+   - [X] Drivers
+   - [ ] BetterMaker
+   - [ ] Rest of Toolkit
+- [ ] GUI
+  
+Windows Versions:
+
+- [ ] Windows 8.1
+- [ ] Windows 10 not LTSC
+~~- [ ] Windows 11~~ never.
+  
 
   
   
