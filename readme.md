@@ -1,4 +1,4 @@
 <h1 align="center">
-  <a href="http://atlasos.net"><img src="https://gcore.jsdelivr.net/gh/Atlas-OS/Atlas@main/img/banner.png" alt="Atlas" width="900" style="border-radius: 30px"></a>
+  <img src="https://raw.githubusercontent.com/WorldOFWindows/RubenOS/main/rubenos_banner.png?token=GHSAT0AAAAAACDVORS62MXJIACUG6QKZD5EZECAKJA" "width="900" style="border-radius: 30px"></a>
 
 
