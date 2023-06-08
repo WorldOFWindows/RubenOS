@@ -1,0 +1,68 @@
+These Helped me to create RubenOS:
+
+
+https://archive.org/details/BestOfWindowsEntertainmentPack64Bit
+https://github.com/pronoy2108/Superfolders
+https://github.com/TadaMacky/WinTweaks
+https://github.com/DaddyMadu/Windows-Optimzier
+https://github.com/ehsan18t/Win10-Ultimate-System-Tweaks
+https://github.com/xvitaly/wincfgs
+https://github.com/balsamleti/speedup-windows10
+https://github.com/kyau/win10tweak
+https://github.com/Empyreal96/win-10-services-toolbox
+https://github.com/fenpaws/Windows10-Firstrun
+https://github.com/Norrodar/Windows-10-Optimizer-Batch
+https://github.com/cagefigter/windows-reg-tweaks
+https://github.com/SegoCode/DebloBat
+https://github.com/code-glue/WinScripts
+https://github.com/SanGraphic/Windows-10
+https://github.com/t2609/windows_optimizer.bat
+https://github.com/rajveersinghcse/Windows_Tweaks
+https://github.com/dtcalabro/WindowsTweaks
+https://github.com/james-hms/ms-windows
+https://github.com/MadhavMendpara/WinNTtweaks.reg
+https://github.com/adarift/reg-tweaks
+https://github.com/MisanZZ/Windows-10-Tweaks
+https://github.com/breadcat/win10-prep
+https://github.com/ShinyCoconut/windows-tweaks
+https://github.com/luna4d/Windows-Tweaks
+https://github.com/SanGraphic/Tweak-Clean-Windows-10-batch
+https://github.com/PluckyJokerhead/WindowsZen
+https://github.com/Micychalek/IcyTweaker-bat
+https://github.com/SandeMC/Sande10Tweaker
+https://github.com/buxh/ZER0-Batch-Optimizer
+https://github.com/Teramanbr/TerabyteTweaker
+https://github.com/shadesofdeath/Shades-Toolbox
+https://github.com/ubihazard/windows-scripts
+https://github.com/emperornerd/PruneCBS
+https://github.com/MadhavMendpara/win10tweaks.reg
+https://github.com/GermanYoshi/WindowsTweaks
+https://github.com/nibirrayy/WindowsPowerTweaks
+https://github.com/awesome-windows11/windows11
+https://github.com/SecurityObesity/1903Registryh4cksWin10
+https://github.com/rajivnayanc/WindowsTweaks
+https://github.com/Snaky1/AT-Tool
+https://github.com/leetfin/Windows10Tools
+https://github.com/WinTweaks/windows-optimization
+https://github.com/bitsadmin/winconfig
+https://github.com/denis-g/windows10-latency-optimization
+https://github.com/AFaustini/OtimizeWindows
+https://github.com/YasserDRIF/Toggle-Tweaker
+https://github.com/rahilpathan/Win10Boost
+https://github.com/tcja/Windows-10-tweaks
+https://github.com/yuliskov/windows-tweaks
+https://github.com/TairikuOokami/Windows
+https://github.com/farag2/Sophia-Script-for-Windows
+https://github.com/ArtanisInc/Post-Tweaks
+https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks
+https://github.com/qis/windows
+https://github.com/clong/MakeWindows10GreatAgain
+https://github.com/ChrisTitusTech/winutil
+----------------------
+LiuBang#5579 - For creating/helping me to create the ISO
+YOU - For having patience
+Xenic#8100, pitachok#445, FlameyosFlow#2691 - For being there with me, helping me and giving me some tips
+
+And myself (Alino) for programming everything and commbing everything
+
+Thank you guys for everything! - Alino, on the 1st of June 2023 compiling RubenOS 
