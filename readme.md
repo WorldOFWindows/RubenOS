@@ -12,7 +12,7 @@ RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO 
   
 ## What stuff is in this Readme?
   
-   [1. What is RubenOS?](https://example.org)
+   1. What is RubenOS?
       
   
       - 1.1 Why does it exist? ❔
