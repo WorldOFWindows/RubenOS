@@ -15,10 +15,10 @@ RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO 
    1. What is RubenOS?
       
   
-      - 1.1 Why does it exist? ❔
+       - 1.1 Why does it exist? ❔
       
   
-      - 1.2 What is/will be added? ↪️
+       - 1.2 What is/will be added? ↪️
 
    2. FAQ
    ***
