@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="https://github.com/WorldOFWindows/RubenOS/blob/main/rubenos_banner.png?raw=true" width="1500" height="300" />
+*Removed Banner*
 A custom Windows:tm: modification for gaming and home-use
   
 # Not in the works
