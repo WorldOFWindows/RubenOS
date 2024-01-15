@@ -1,4 +1,4 @@
-*Removed Banner*
+*Removed Banner*                              
 A custom Windows:tm: modification for gaming and home-use
   
 # Not in the works
