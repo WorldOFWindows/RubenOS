@@ -2,7 +2,11 @@
   <img src="https://github.com/WorldOFWindows/RubenOS/blob/main/rubenos_banner.png?raw=true" width="1500" height="300" />
 A custom Windows:tm: modification for gaming and home-use
   
- 
+# Not in the works
+This project is not in the works anymore. Please look into my incomming project. I have changed and I know now this is absolutley useless, execpt for giving me a hard lesson: Dont use a lot of useless tweaks and look into everything carefully. I learned that the hard way, and i'm going to reflect that in my incomming project. In the project i'm going to make a ISO with my entire brain knowledge and just **recommend** tweaks. I'll also make a full on guide, on how to optimize and make Windows perfect. A Linux Version is also in the works (I learned lots of things there and tried Gentoo (dont))
+
+Well i hope this announcment helps you. I'll see you in the other side, at the next project. Have a nice day =)
+
 ## ⚠️ Warning!
 
 RubenOS is [UNSTABLE](https://example.org) and in development version 1. I **DO NOT** recommend running RubenOS as a daily-drive (everyday use). 
